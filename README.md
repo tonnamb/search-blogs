@@ -29,5 +29,6 @@ Sites included:
 * https://www.datascienceweekly.org
 * http://varianceexplained.org/
 * http://www.business-science.io/
+* https://tonnamb.github.io/
 
 If you have a suggestion on data science blogs to add to the list, please email me at tonnam.balankura@gmail.com or submit a pull request to modify the README.md file.
